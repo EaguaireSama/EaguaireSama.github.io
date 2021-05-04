@@ -11,3 +11,6 @@ This is one of my favorite projects. In this, I worked on the MNIST dataset and 
 1.  ### Desktop application - using Keras [.ipynb](https://github.com/EaguaireSama/EaguaireSama.github.io/blob/main/NoteBooks/MNIST_classifier.ipynb)
 > This is a slight modification to my previous project. Instead of using my own model, I used the Keras library to build a better Classifier. 
 --------------------------------------------------------------------------------------------------------
+### Web Scraper using Beautiful Soup
+Built a bot that scraped the prices of products like T.V's from Online Markets.
+
