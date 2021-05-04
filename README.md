@@ -1,7 +1,7 @@
 # EaguaireSama.github.io
 
 This is a portfolio of my Data Science projects. Most of the notebooks 
-Standalone projects
+### Standalone projects
 ---------------------------------------------------------------------
 ### Handwritten Number Recognizer
 This is one of my favorite projects. In this, I worked on the MNIST dataset and built classifiers using **different** methods.
